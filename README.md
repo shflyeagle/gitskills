@@ -1,4 +1,4 @@
 # gitskills
 git skill ramp up 
 git skill ramp up 
-git competence rampingA up 
+git competence rampingAC up 
