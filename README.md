@@ -11,4 +11,3 @@ GIT MERGE TEST 1
 GIT MERGE TEST1
 GIT MERGE 1005
 git revert b1
-git revert b2
