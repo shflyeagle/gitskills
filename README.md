@@ -4,7 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 git skill ramp up 
 git skill ramp up 
-git competence rampingABC up 
-Creating a new branch is quick.
-Git stash test,
-Git commit --amend
+git reset test step3
+GIT REBASE TEST 1
