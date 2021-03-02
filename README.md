@@ -9,4 +9,5 @@ Creating a new branch is quick.
 Git stash test,
 Test commmit1
 Test commmit2
+Test commmit3
 
